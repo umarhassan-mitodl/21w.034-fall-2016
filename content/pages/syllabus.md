@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section contains details about course requirements and expectations.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -52,4 +54,4 @@ Perelman, Leslie, and Edward Barrett. _The Mayfield Handbook of Technical and Sc
 
 Penrose, Ann M., and Steven B. Katz. _Writing in the Sciences: Exploring Conventions of Scientific Discourse (The Allyn & Bacon Series in Technical Communication)_. 3rd ed. Longman, 2010. ISBN: 9780205616718.
 
-{{% resource_link "5ea60049-9174-4687-907f-a8a9efa3f60e" "The Purdue Online Writing Lab (OWL)" %}}
+[The Purdue Online Writing Lab (OWL)](https://owl.english.purdue.edu/)

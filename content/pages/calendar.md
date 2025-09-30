@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains details about the course topics and key dates for
   assignments.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -210,7 +212,7 @@ Workshop 2 - Comments on Critical Reviews
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Library session in {{% resource_link "112bfad2-595d-4e99-82b2-af4826e0001f" "Hayden" %}}
+Library session in [Hayden](https://libraries.mit.edu/hayden/)
 {{< tdclose >}}
 {{< tdopen >}}
 Critical Review, final version

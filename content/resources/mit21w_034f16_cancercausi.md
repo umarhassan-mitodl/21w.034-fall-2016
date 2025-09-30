@@ -6,6 +6,8 @@ description: 'This files contain information regarding science writing and new m
 file: /courses/21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016/6c51392f2c378b0f946309b595f58314_MIT21W_034F16_CancerCausi.pdf
 file_size: 590980
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
