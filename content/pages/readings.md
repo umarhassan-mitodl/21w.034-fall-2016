@@ -20,28 +20,28 @@ No assigned readings
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
-Campo, Rafael. "[Illness as Muse](https://medicalhealthhumanities.com/2019/04/29/rafael-campos-comfort-measures-only/)." *Bellevue Literary Review* (2011) (V11 2).
+Campo, Rafael. "{{% resource_link "f5a337e9-b50d-4638-9443-c4fd5904dc8e" "Illness as Muse" %}}." *Bellevue Literary Review* (2011) (V11 2).
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
 
-Shin, Eliza. "[Star Material](https://doi.org/10.1001/jama.281.6.493)." *JAMA* 281, no. 6 (1999): 493.
+Shin, Eliza. "{{% resource_link "57914bb7-91f6-4cb3-abf9-b4f4aa2972c8" "Star Material" %}}." *JAMA* 281, no. 6 (1999): 493.
 
-Groopman, Jerome. "Flesh-and-Blood Decision Making." In *How Doctors Think*. Mariner Books, 2008. ISBN: 9780547053646. \[Preview with [Google Books](http://books.google.com/books?id=RjY2iwqIuIwC&pg=PA31=onepage)\]
+Groopman, Jerome. "Flesh-and-Blood Decision Making." In *How Doctors Think*. Mariner Books, 2008. ISBN: 9780547053646. \[Preview with {{% resource_link "17d9ab42-025f-4795-b6fb-0bc11aadd074" "Google Books" %}}\]
 
-Ofri, Danielle. "[Acne](https://doi.org/10.7326/0003-4819-132-11-200006060-00013)." *Annals of Internal Medicine* 132, no. 11 (2000): 919–20.
+Ofri, Danielle. "{{% resource_link "bc5aac44-33ec-43e1-b55a-4a4330b4d80f" "Acne" %}}." *Annals of Internal Medicine* 132, no. 11 (2000): 919–20.
 
-———. "[Incidental Illness](https://doi.org/10.1377/hlthaff.23.4.197)." *Health Affairs* 23, no. 4 (2004): 197–201.
+———. "{{% resource_link "d9df4445-a7c9-49d0-8db4-2938c88781dd" "Incidental Illness" %}}." *Health Affairs* 23, no. 4 (2004): 197–201.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
 
-Ofri, Danielle. "[Tools of the Trade](https://doi.org/10.1056/NEJMp038170)." *The New England Journal of Medicine* 349 (2003): 1693–4.
+Ofri, Danielle. "{{% resource_link "3021d6b8-2270-41b8-befa-a64843399519" "Tools of the Trade" %}}." *The New England Journal of Medicine* 349 (2003): 1693–4.
 
-Durso, Samuel C. "[Trust](https://doi.org/10.7326/0003-4819-137-12-200212170-00017)." *Annals of Internal Medicine* 137, no. 12 (2002): 1004–5.
+Durso, Samuel C. "{{% resource_link "e0c51bbf-8ee1-4892-bd63-33f43f573f66" "Trust" %}}." *Annals of Internal Medicine* 137, no. 12 (2002): 1004–5.
 
-McClenahan, John L. "[Drop-in](https://doi.org/10.7326/0003-4819-137-4-200208200-00017)." *Annals of Internal Medicine* 137, no. 4 (2002): 293–4.
+McClenahan, John L. "{{% resource_link "fd8b5bdc-553f-45e7-8b00-7850074fec4e" "Drop-in" %}}." *Annals of Internal Medicine* 137, no. 4 (2002): 293–4.
 
 Ross, Carolyn. "Rhetoric: Writing About Personal Experience." In *Writing Nature: An Ecological Reader for Writers*. St. Martin's Press, 1995. ISBN: 9780312103910.
 
@@ -51,11 +51,11 @@ Ross, Carolyn. "Rhetoric: Writing About Personal Experience." In *Writing Nature
 
 Gawande, Atul. "When Doctors Make Mistakes." In *Complications: A Surgeon's Notes on an Imperfect Science*. Picador, 2003. ISBN: 9780312421700.
 
-Nuland, Sherwin B. "[Mistakes in the Operating Room—Error and Responsibility](https://doi.org/10.1056/NEJMp048175)." *The New England Journal of Medicine* 351, no. 13 (2004): 1281–3.
+Nuland, Sherwin B. "{{% resource_link "f6444581-0d3e-4d00-9c09-a6a668d2d4a0" "Mistakes in the Operating Room—Error and Responsibility" %}}." *The New England Journal of Medicine* 351, no. 13 (2004): 1281–3.
 
 Mukherjee, Siddhartha. "A Precarious Exchange." *The New England Journal of Medicine* 351, no. 18 (2004): 1822–4.
 
-Fadiman, Anne. "Preface", and "The Eight Questions." In *The Spirit Catches You and You Fall Down: A Hmong Child, Her American Doctors, and the Collision of Two Cultures*. Farrar, Straus and Giroux, 1998. ISBN: 9780374525644. \[Preview with [Google Books](http://books.google.com/books?id=DUHAXXvSUeYC&pg=PA250=onepage)\]
+Fadiman, Anne. "Preface", and "The Eight Questions." In *The Spirit Catches You and You Fall Down: A Hmong Child, Her American Doctors, and the Collision of Two Cultures*. Farrar, Straus and Giroux, 1998. ISBN: 9780374525644. \[Preview with {{% resource_link "4cfc404c-6749-426f-a502-3d3fdea09485" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -75,13 +75,13 @@ No assigned readings
 8
 {{< tdclose >}}{{< tdopen >}}
 
-Nisbet, Matthew C., and Dietram A. Scheufele. "[What's Next for Science Communication? Promising Directions and Lingering Distractions](https://doi.org/10.3732/ajb.0900041)." *American Journal of Botany* 96, no. 10 (2009): 1767–8.
+Nisbet, Matthew C., and Dietram A. Scheufele. "{{% resource_link "a986db48-0084-45c2-ad32-11daf0ec16fc" "What's Next for Science Communication? Promising Directions and Lingering Distractions" %}}." *American Journal of Botany* 96, no. 10 (2009): 1767–8.
 
 Pineda, Diego. "Editing a Science Documentary: More Than Words (Literally!)." *Science Editor* 27, no. 2 (2004): 47–49.
 
-Varner, Johanna. "[Scientific Outreach: Toward Effective Public Engagement with Biological Science](https://doi.org/10.1093/biosci/biu021)." *BioScience* 64, no. 4 (2014): 333–40.
+Varner, Johanna. "{{% resource_link "0b48da2d-c387-4b31-b995-e49bbb2ad306" "Scientific Outreach: Toward Effective Public Engagement with Biological Science" %}}." *BioScience* 64, no. 4 (2014): 333–40.
 
-Reynolds, Julie. "[When Communicating with Diverse Audiences, Use Velcro To Make Science Stick](https://doi.org/10.1890/0012-9623-90.3.297)." *Bulletin Ecological Society of America* 90, no. 3 (2009): 297–304.
+Reynolds, Julie. "{{% resource_link "a4bc9cf0-f22b-4ab8-8d8e-512cc5b0241e" "When Communicating with Diverse Audiences, Use Velcro To Make Science Stick" %}}." *Bulletin Ecological Society of America* 90, no. 3 (2009): 297–304.
 
 Select and view a pair of documentaries from this list: {{% resource_link "715dac40-e66d-80fc-b725-68a88b83ae0d" "Critical Review Documentaries (PDF)" %}}
 
@@ -99,7 +99,7 @@ Select and view a pair of documentaries from this list: {{% resource_link "715da
 
 Find and read three articles on the subject of your documentaries. Look for carefully researched articles. Steer clear of news articles.
 
-Hancock, Elise. "A Matter of Attitude." In *Ideas into Words: Mastering the Craft of Science Writing*. Johns Hopkins University Press, 2003. ISBN: 9780801873300. \[Preview with [Google Books](http://books.google.com/books?id=YGLcYi3QJ1IC&pg=PA1=onepage)\]
+Hancock, Elise. "A Matter of Attitude." In *Ideas into Words: Mastering the Craft of Science Writing*. Johns Hopkins University Press, 2003. ISBN: 9780801873300. \[Preview with {{% resource_link "b8a903eb-caa5-416a-ab72-1c153a99b73c" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -119,9 +119,9 @@ No assigned readings
 
 Penrose, Ann M., and Steven B. Katz. "Reviewing as a Genre: The Review Article." In *Writing in the Sciences: Exploring Conventions of Scientific Discourse (Part of the Allyn & Bacon Series in Technical Communication)*. 3rd ed. Longman, 2010. ISBN: 9780205616718.
 
-Diekelmann, Susanne, and Jan Born. "[The Memory Function of Sleep](https://doi.org/10.1038/nrn2762)." *Nature Reviews Neuroscience* 11, no. 2 (2010): 114–26.
+Diekelmann, Susanne, and Jan Born. "{{% resource_link "f99abcdb-93ee-4d93-85d0-2195af855c82" "The Memory Function of Sleep" %}}." *Nature Reviews Neuroscience* 11, no. 2 (2010): 114–26.
 
-Stickgold, Robert, and Jeffrey M. Ellenbogen. "[Quiet! Sleeping Brain at Work](https://doi.org/10.1038/scientificamericanmind0808-22)." *Scientific American Mind* 19, no. 4 (2008): 22–29.
+Stickgold, Robert, and Jeffrey M. Ellenbogen. "{{% resource_link "65753895-5c05-42c7-bafa-52cad4ba7215" "Quiet! Sleeping Brain at Work" %}}." *Scientific American Mind* 19, no. 4 (2008): 22–29.
 
 Select and read carefully an article from the following list on a public health topic that interests you and might provide a starting point for your own *Scientific American* Update:
 
