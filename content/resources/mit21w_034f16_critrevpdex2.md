@@ -5,8 +5,6 @@ description: 'This files contain information regarding science writing and new m
 file: /courses/21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016/85303c14a59d61f67bb61a3523ff834f_MIT21W_034F16_CritRevPDEx2.pdf
 file_size: 146081
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
